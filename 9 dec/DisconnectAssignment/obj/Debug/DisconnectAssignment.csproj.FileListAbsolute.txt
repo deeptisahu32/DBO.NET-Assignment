@@ -1,0 +1,8 @@
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\assignment\9 dec\DisconnectAssignment\bin\Debug\DisconnectAssignment.exe.config
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\assignment\9 dec\DisconnectAssignment\bin\Debug\DisconnectAssignment.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\assignment\9 dec\DisconnectAssignment\bin\Debug\DisconnectAssignment.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\assignment\9 dec\DisconnectAssignment\obj\Debug\DisconnectAssignment.csproj.AssemblyReference.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\assignment\9 dec\DisconnectAssignment\obj\Debug\DisconnectAssignment.csproj.CoreCompileInputs.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\assignment\9 dec\DisconnectAssignment\obj\Debug\DisconnectAssignment.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\assignment\9 dec\DisconnectAssignment\obj\Debug\DisconnectAssignment.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\assignment\9 dec\DisconnectAssignment\obj\Debug\DisconnectAssignment.exe.config
