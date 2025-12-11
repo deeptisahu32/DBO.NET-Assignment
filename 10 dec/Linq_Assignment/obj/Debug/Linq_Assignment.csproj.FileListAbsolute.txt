@@ -1,0 +1,8 @@
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\10 dec\Linq_Assignment\bin\Debug\Linq_Assignment.exe.config
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\10 dec\Linq_Assignment\bin\Debug\Linq_Assignment.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\10 dec\Linq_Assignment\bin\Debug\Linq_Assignment.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\10 dec\Linq_Assignment\obj\Debug\Linq_Assignment.csproj.AssemblyReference.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\10 dec\Linq_Assignment\obj\Debug\Linq_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\10 dec\Linq_Assignment\obj\Debug\Linq_Assignment.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\10 dec\Linq_Assignment\obj\Debug\Linq_Assignment.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\10 dec\Linq_Assignment\obj\Debug\Linq_Assignment.exe.config
