@@ -10,7 +10,7 @@ namespace Connected_Assignment
 {
     internal class Connected_Arch_Assignment
     {
-
+        
 
         public void GetTransaction()
         {

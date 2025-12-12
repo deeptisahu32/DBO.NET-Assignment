@@ -1,0 +1,8 @@
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\ADO.NET_ASSESSMENT\bin\Debug\ADO.NET_ASSESSMENT.exe.config
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\ADO.NET_ASSESSMENT\bin\Debug\ADO.NET_ASSESSMENT.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\ADO.NET_ASSESSMENT\bin\Debug\ADO.NET_ASSESSMENT.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\ADO.NET_ASSESSMENT\obj\Debug\ADO.NET_ASSESSMENT.csproj.AssemblyReference.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\ADO.NET_ASSESSMENT\obj\Debug\ADO.NET_ASSESSMENT.csproj.CoreCompileInputs.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\ADO.NET_ASSESSMENT\obj\Debug\ADO.NET_ASSESSMENT.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\ADO.NET_ASSESSMENT\obj\Debug\ADO.NET_ASSESSMENT.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\ADO.NET_ASSESSMENT\obj\Debug\ADO.NET_ASSESSMENT.exe.config
