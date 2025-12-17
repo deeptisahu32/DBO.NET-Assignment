@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{E90918C2-361E-4E28-B02D-24C9D7AEAE09}|CodeFirstAssignment1.csproj|solutionrelative:crudclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E90918C2-361E-4E28-B02D-24C9D7AEAE09}|CodeFirstAssignment1.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\training_session_2\\dec\\assignment\\15 dec\\CodeFirstAssignment1\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E90918C2-361E-4E28-B02D-24C9D7AEAE09}|CodeFirstAssignment1.csproj|solutionrelative:model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E90918C2-361E-4E28-B02D-24C9D7AEAE09}|CodeFirstAssignment1.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\training_session_2\\dec\\assignment\\15 dec\\CodeFirstAssignment1\\employeeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E90918C2-361E-4E28-B02D-24C9D7AEAE09}|CodeFirstAssignment1.csproj|solutionrelative:employeeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E90918C2-361E-4E28-B02D-24C9D7AEAE09}|CodeFirstAssignment1.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\training_session_2\\dec\\assignment\\15 dec\\CodeFirstAssignment1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{E90918C2-361E-4E28-B02D-24C9D7AEAE09}|CodeFirstAssignment1.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -25,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{E90918C2-361E-4E28-B02D-24C9D7AEAE09}|CodeFirstAssignment1.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\training_session_2\\dec\\assignment\\15 dec\\CodeFirstAssignment1\\migrations\\202512151359274_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E90918C2-361E-4E28-B02D-24C9D7AEAE09}|CodeFirstAssignment1.csproj|solutionrelative:migrations\\202512151359274_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90918C2-361E-4E28-B02D-24C9D7AEAE09}|CodeFirstAssignment1.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\training_session_2\\dec\\assignment\\15 dec\\CodeFirstAssignment1\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90918C2-361E-4E28-B02D-24C9D7AEAE09}|CodeFirstAssignment1.csproj|solutionrelative:model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90918C2-361E-4E28-B02D-24C9D7AEAE09}|CodeFirstAssignment1.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\training_session_2\\dec\\assignment\\15 dec\\CodeFirstAssignment1\\employeeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90918C2-361E-4E28-B02D-24C9D7AEAE09}|CodeFirstAssignment1.csproj|solutionrelative:employeeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "202512151359274_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\training_session_2\\dec\\assignment\\15 dec\\CodeFirstAssignment1\\Migrations\\202512151359274_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\202512151359274_InitialCreate.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\training_session_2\\dec\\assignment\\15 dec\\CodeFirstAssignment1\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
@@ -64,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\training_session_2\\dec\\assignment\\15 dec\\CodeFirstAssignment1\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -81,16 +81,16 @@
               "Title": "Crudclass.cs",
               "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\training_session_2\\dec\\assignment\\15 dec\\CodeFirstAssignment1\\Crudclass.cs",
               "RelativeDocumentMoniker": "Crudclass.cs",
-              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\training_session_2\\dec\\assignment\\15 dec\\CodeFirstAssignment1\\Crudclass.cs*",
-              "RelativeToolTip": "Crudclass.cs*",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\training_session_2\\dec\\assignment\\15 dec\\CodeFirstAssignment1\\Crudclass.cs",
+              "RelativeToolTip": "Crudclass.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T12:10:55.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Model1.cs",
               "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\training_session_2\\dec\\assignment\\15 dec\\CodeFirstAssignment1\\Model1.cs",
               "RelativeDocumentMoniker": "Model1.cs",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Employeeclass.cs",
               "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\training_session_2\\dec\\assignment\\15 dec\\CodeFirstAssignment1\\Employeeclass.cs",
               "RelativeDocumentMoniker": "Employeeclass.cs",
